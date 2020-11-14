@@ -1,9 +1,9 @@
-#AirBnB Data Analysis
+# AirBnB Data Analysis
 
-##Introduction
+## Introduction
 This project aims at analysing AirBnB data in the cities of Seattle and Boston.
 
-##Data
+## Data
 Data regarding rent properties in both cities have been provided by AirBnB at
 the following urls: [INSERT URL]
 
@@ -15,8 +15,8 @@ house prices in time, listings.csv contains data regarding all the properties'
 characteristics, whereas reviews.csv contains all the reviews for the said houses;
 - the file Analysis.ipynb contains all the calculations and analysis done.
 
-##Methodology
+## Methodology
 
-##Results
+## Results
 
-##Conclusion
+## Conclusion
