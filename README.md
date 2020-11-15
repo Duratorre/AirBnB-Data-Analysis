@@ -17,9 +17,9 @@ No requirements needed to run the code in this repository apart from the Anacond
 This project aims at analysing AirBnB data in the cities of Seattle and Boston.
 In particular, I will try to answer answering the following questions:
 
-1.Is there any time during the year when the price of a house increases or decreases? Are there any differences between the two cities?
-2.What are the characteristics of a house that influence the most its prize? Are there any differences between the two cities?
-3.How accurately can we predict house prices?
+  1. Is there any time during the year when the price of a house increases or decreases? Are there any differences between the two cities?
+  2. What are the characteristics of a house that influence the most its prize? Are there any differences between the two cities?
+  3. How accurately can we predict house prices?
 
 <a name="data"></a>
 ## 3. Data and File Descriptions
