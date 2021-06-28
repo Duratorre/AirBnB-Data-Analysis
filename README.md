@@ -47,7 +47,7 @@ For the second question, in both cities prices of entire homes/apartments are on
 
 About the grade of correlation between prices and ratings, the data show that they are generally not correlated, with ratings and prices that do not show a linear relationship. However, it can be said that for higher prices, ratings tend to be higher, meaning that higher prices are an indication of good ratings.
 
-For the prediction of house prices, three methods are used: Linear Regression, Random Forest Regression and Extreme Gradient Boost. The first method performs worse than the other two, with the two metrics used to measure the goodness of the prediction being the Root-Mean-Square-Error (**RMSE**) and the coefficient of determination (**R^{2}**). Between Random Forest and Extreme Gradient Boost, the first performs better on the train set, while the second performs better on the test set.
+For the prediction of house prices, three methods are used: Linear Regression, Random Forest Regression and Extreme Gradient Boost. The first method performs worse than the other two, with the two metrics used to measure the goodness of the prediction being the Root-Mean-Square-Error (**RMSE**) and the coefficient of determination (**R^<sup>2/<sup>}**). Between Random Forest and Extreme Gradient Boost, the first performs better on the train set, while the second performs better on the test set.
 
 <a name="lic"></a>
 ## 6. Licensing, Authors, Acknowledgement
